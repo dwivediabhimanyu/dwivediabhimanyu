@@ -1,4 +1,4 @@
-![header](https://dvlprabhi-dp.vercel.app/?text=Hi%20there!)
+![header](https://dvlprabhi-dp.vercel.app/?locHello=true)
 I'm Abhimanyu. I am a Fullstack Web Developer and Cloud Practitioner.
 
 - :mortar_board: University student
