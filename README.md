@@ -1,8 +1,7 @@
 ![header](https://dvlprabhi-dp.vercel.app/?locHello=true)
 I'm Abhimanyu. I am a Fullstack Web Developer and Cloud Practitioner.
 
-- :mortar_board: University student
-- 🌱 I’m currently learning about Azure services. 
+- ‍💻 DevOps Engineer
 - 👯 I’m looking to collaborate with a cool product devlopment team. 
 - 🤔 I’m looking for help with Azure certification exams.
 - 💬 Ask me about Web Development, AWS Services, and Coffee.
